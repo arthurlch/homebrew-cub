@@ -2,7 +2,7 @@
 
 cask "cub" do
   version "0.1.0"
-  sha256 "YOUR_INITIAL_SHA256_HASH"
+  sha256 "NEW_SHA256_HASH_FROM_ACTIONS"
 
   url "https://github.com/arthurlch/cub/releases/download/v#{version}/cub-binaries-v#{version}.zip"
   name "Cub"
