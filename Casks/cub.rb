@@ -1,10 +1,10 @@
 # homebrew-cub/Casks/cub.rb
 
 cask "cub" do
-  version "0.0.21"
-  sha256 "6ead2bd266eeb9effaffd8cdc814889c107c056f9bcf79fe61e6cd779365fa06"
+  version "0.0.22"
+  sha256 "7014d17a8089f99f621aa588acfebb5a3d3b3a0663707e74b66f00f129cfabfd"
 
-  url "https://github.com/arthurlch/cub/releases/download/v0.0.21/cub-binaries-v0.0.21.zip"
+  url "https://github.com/arthurlch/cub/releases/download/v0.0.22/cub-binaries-v0.0.22.zip"
   name "Cub"
   desc "A simple and powerful text editor."
   homepage "https://github.com/arthurlch/cub"
